@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Mi nombre es Deborah Famadas Rodríguez. He aquí algunas cosas interesantes en mí:
+My name is Deborah Famadas Rodriguez. Here are some interesting things about me:
 
-Soy originaria de Bejucal, Mayabeque, Cuba, pero actualmente me hallo viviendo en la Habana.
-Me encuentro cursando mi 3er año en la carrera de Ciencias de la Computación en la facultad de Matcom en la Universidad de la Habana, Cuba.
-En mi tiempo libre disfruto de aprender y de programar. Tengo algunos estudios extracurriculares en la rama de Ingeniería de Software.
-Puede encontrarme por telegram como @dbyta.
+I am originally from Bejucal, Mayabeque, Cuba, but I am currently living in Havana. I am in my 3rd year of Computer Science at the Matcom faculty at the University of Havana, Cuba. In my free time I enjoy learning and programming. I have some extracurricular studies in the Software Engineering branch. You can find me on telegram as @dbyta.
 
-Me identifico como:
-Una persona preocupada, suficiente y dedicada. Me gusta meterme de lleno en las cosas que hago y creo que las personas somos capaces de los que nos propongamos. Me encanta oir críticas constructivas de mi trabajo y como puedo mejorar, y me considero todo el tiempo aprediendo, lo cual me encanta.
+I identify myself as: A concerned, sufficient and dedicated person. I like to get right into the things I do and I believe that people are capable of whatever we set our minds to. I love to hear constructive criticism of my work and how I can improve, and I consider myself all the time learning, which I love.
 
-Me gusta trabajar en lenguajes como: Javascript, python, y lenguajes declarativos como Prolog y Haskell, en los cuales tengo cierta experiencia.
+I like to work in languages like: Javascript, python, and declarative languages like Prolog and Haskell, in which I have some experience.
